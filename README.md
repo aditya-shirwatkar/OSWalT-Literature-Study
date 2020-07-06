@@ -22,7 +22,7 @@
 - [x] [VertiGo - a Wall-Climbing Robot including Ground-Wall Transition](#Vertigo)
 - [x] [Design and Development of a Novel
 Spherical UAV](#Design-and-Development-of-a-Novel-Spherical-UAV)
-- [x] [Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement](#Design-and-Analysis-of-a-Flying-crawling-Spherical-Robot-for-Multi-mode-Movement)
+- [ ] [Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement](#Design-and-Analysis-of-a-Flying-crawling-Spherical-Robot-for-Multi-mode-Movement)
 
 # Papers
 
