@@ -1,7 +1,19 @@
 # OSWalT Literature Study
 ###### tags: `OSWalT` `Controls` `Mechanical Design`
 
-[TOC]
+- [Table of Contents](#oswalt-literature-study)
+  * [:memo: List of Papers Read](#-memo--list-of-papers-read)
+  * [Papers](#papers)
+    * [Vertigo](#vertigo)
+        + [Abstract](#abstract)
+        + [Technical Background](#technical-background)
+    * [Design and Development of a Novel Spherical UAV](#design-and-development-of-a-novel-spherical-uav)
+      + [Abstract](#abstract-1)
+      + [System Design and Structure](#system-design-and-structure)
+      + [Drawbacks](#drawbacks)
+      + [Conclusion](#conclusion)
+    * [Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement](#design-and-analysis-of-a-flying-crawling-spherical-robot-for-multi-mode-movement)
+      + [Abstract](#abstract-2)
 
 > This note is the quick study of previous works done for a wall climbing and omnidirectional spherical system.
 
@@ -10,7 +22,7 @@
 - [x] [VertiGo - a Wall-Climbing Robot including Ground-Wall Transition](#Vertigo)
 - [x] [Design and Development of a Novel
 Spherical UAV](#Design-and-Development-of-a-Novel-Spherical-UAV)
-- [x] [Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement](#Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement)
+- [x] [Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement](#Design-and-Analysis-of-a-Flying-crawling-Spherical-Robot-for-Multi-mode-Movement)
 
 # Papers
 
