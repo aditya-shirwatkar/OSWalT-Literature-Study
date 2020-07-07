@@ -3,6 +3,7 @@
 ###### tags: `OSWalT` `Controls Theory` `Mechanical Design`
 
 This note is a Literature Study for the new version of OSWalT (Omnidirectional Spherical Wall Traversing Robot) at [IvLabs](http://ivlabs.in/) .
+
 Previous version Research Paper [here](http://www.ivlabs.in/uploads/1/3/0/6/130645069/oswalt_-__omnidirectional_spherical_wall_traversing_robot.pdf)
 
 - [Table of Contents](#oswalt-literature-study)
