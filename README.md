@@ -1,5 +1,5 @@
 # OSWalT Literature Study
-###### tags: `OSWalT` `Controls` `Mechanical Design`
+###### tags: `OSWalT` `Controls Theory` `Mechanical Design`
 
 - [Table of Contents](#oswalt-literature-study)
   * [:memo: List of Papers Read](#-memo--list-of-papers-read)
@@ -18,7 +18,7 @@ Spherical UAV
 
 | Tables                                                | Link           | 
 | -------------                                         |:-------------:|
-| [Design and Development of a Novel Spherical UAV](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/11192/Design_and_development_of_a_novel_spherical_UAV-2016.pdf?sequence=3&isAllowed=y)| [Hackmd Notes]() |
+| [Design and Development of a Novel Spherical UAV](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/11192/Design_and_development_of_a_novel_spherical_UAV-2016.pdf?sequence=3&isAllowed=y)| [Hackmd Notes](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/ByP6xjZkP) |
 | col 2 is                                              | centered      | 
 | VertiGo                                               | are neat      |
 
