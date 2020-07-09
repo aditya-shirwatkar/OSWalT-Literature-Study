@@ -16,7 +16,7 @@ The notes below are a quick study of previous works done for a wall climbing and
 
 - [x] Design and Development of a Novel
 Spherical UAV
-- [ ] Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement
+- [x] Design and Analysis of a Flying-crawling Spherical Robot for Multi-mode Movement
 - [x] VertiGo - a Wall-Climbing Robot including Ground-Wall Transition
 
 # Papers
